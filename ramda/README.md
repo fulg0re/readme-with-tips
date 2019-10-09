@@ -1,3 +1,5 @@
+[Tips > ](../README.md)[Ramda](./README.md)
+
 # Ramda
 
 <div align="center">
